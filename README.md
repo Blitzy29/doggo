@@ -132,6 +132,8 @@ python3 src/visualization/app_currently_running.py
 http://127.0.0.1:8052/
 ~~~
 
+![Doggo - Currently Running - Part 1](Doggo - Currently Running - Part 1.png)
+
 
 ### [Analysis](src/visualization/README.md)
 
@@ -141,6 +143,8 @@ python3 src/visualization/app_analysis.py
 ~~~
 http://127.0.0.1:8051/
 ~~~
+
+![](Doggo - Analysis - Part 1.png)
 
 
 ## Project Organization
