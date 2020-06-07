@@ -1,0 +1,5 @@
+{
+  "n_episodes": 100000
+  , "nmax_steps": 43200
+  , "gamma": 0.95
+}

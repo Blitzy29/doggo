@@ -1,0 +1,19 @@
+{
+  "method": "Q_Learning"
+  , "epsilon": {
+    "init_epsilon": 1
+    , "decay_epsilon": "per_state"
+    , "min_epsilon": 0
+  }
+  , "alpha": {
+    "init_alpha": 0.5
+    , "decay_alpha": "fixed"
+    , "min_alpha": 0.5
+  }
+  , "init_Q_type": "ones"
+  , "n_episodes": 10000
+  , "nmax_steps": 1440
+  , "gamma": 0.95
+  , "start_at_random": false
+  , "KLdiv_convergence": 1e-10
+}

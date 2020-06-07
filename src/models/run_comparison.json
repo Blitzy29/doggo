@@ -1,0 +1,8 @@
+{
+  "n_episodes": 10000
+  , "nmax_steps": 1440
+  , "gamma": 0.95
+  , "list_method_ids": ["sarsa_9",
+  "sarsa_25", "sarsa_26", "sarsa_27", "sarsa_28",
+  "sarsa_29", "sarsa_30", "sarsa_31"]
+}

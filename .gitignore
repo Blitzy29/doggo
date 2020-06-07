@@ -8,6 +8,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+.venv/
+keras-rl/
 build/
 develop-eggs/
 dist/
@@ -76,7 +78,7 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-/data/
+# /data/
 
 # Mac OS-specific storage files
 .DS_Store

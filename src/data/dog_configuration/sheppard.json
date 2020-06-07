@@ -1,0 +1,14 @@
+{
+  "food_consumption_rate": 0.000009259259259
+  , "affection_consumption_rate": 0.000005555555556
+  , "eating_time": 1
+  , "eating_food_increase": 0.6
+  , "eating_fat_increase": 0.25
+  , "walking_time": 15
+  , "walking_fat_converge_rate": 0.2
+  , "walking_affection_converge_rate": 0.4
+  , "playing_time": 4
+  , "playing_fat_converge_rate": 0.1
+  , "playing_affection_converge_rate": 0.20
+  , "decimals_state": 2
+}
