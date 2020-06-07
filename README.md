@@ -132,7 +132,7 @@ python3 src/visualization/app_currently_running.py
 http://127.0.0.1:8052/
 ~~~
 
-![Doggo - Currently Running - Part 1](Doggo - Currently Running - Part 1.png)
+![Doggo - Currently Running - Part 1](https://github.com/Blitzy29/doggo/blob/master/Doggo%20-%20Analysis%20-%20Part%201.png)
 
 
 ### [Analysis](src/visualization/README.md)
