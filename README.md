@@ -144,7 +144,7 @@ python3 src/visualization/app_analysis.py
 http://127.0.0.1:8051/
 ~~~
 
-![](Doggo - Analysis - Part 1.png)
+![Doggo - Analysis - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%201.png)
 
 
 ## Project Organization
