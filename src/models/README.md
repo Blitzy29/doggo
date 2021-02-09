@@ -9,7 +9,7 @@ Reinforcement Learning to make a Doggo immortal.
 * [What is a Doggo?](#what-is-a-doggo?)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Implemented technics](#implemented-technics)
-* [How to use it (simplified)](#how-to-use-it-(simplified))
+* [How to use it (simplified)](#how-to-use-it)
 
 ## What is a Doggo?
 
@@ -31,7 +31,7 @@ Once the happiness reaches 0, the Doggo dies.
 
 Food and affection will diminish in time. In my test, it decreases by a value of 0.01 every minute. Fat doesn't change with time. However, action can be taken to improve the levels of food and affection, or reduce fat.
 
-Read more [here](src/data/README.md).
+Read more [here](../../src/data/README.md).
 
 
 ## Reinforcement Learning
@@ -73,16 +73,16 @@ As a reward, we conside the happiness of the new state (therefore between 0 and 
 
 ## Implemented technics
 
-* [SARSA](src/models/value_based/sarsa/README.md)
-* [Monte Carlo Process](src/models/value_based/monte_carlo/README.md)
-* [Q-Learning](src/models/value_based/qlearning/README.md)
-* [Double Q-Learning](src/models/value_based/doubleqlearning/README.md)
+* [SARSA](value_based/sarsa/README.md)
+* [Monte Carlo Process](value_based/monte_carlo/README.md)
+* [Q-Learning](value_based/qlearning/README.md)
+* [Double Q-Learning](value_based/doubleqlearning/README.md)
 
 More information can be found to the specific documentation for each method, as well as how to use it.
 
-## How to use it (simplified)
+## How to use it
 
-They follow the same process for usage. An example for SARSA is shown here. More information can be found to the specific documentation for each method
+Models follow the same process for usage. An example for SARSA is shown here. More information can be found to the specific documentation for each method.
 
 ~~~python
 train_model_SARSA.py [-h] [--render_episode [RENDER_EPISODE]]
@@ -94,7 +94,7 @@ train_model_SARSA.py [-h] [--render_episode [RENDER_EPISODE]]
 
 ### Current process
 
-Read more [here](src/visualisation/README.md).
+Read more [here](../../src/visualisation/README.md).
 
 ~~~
 python3 src/visualization/app_currently_running.py
@@ -106,7 +106,7 @@ http://127.0.0.1:8052/
 
 ### Analysis
 
-Read more [here](src/visualisation/README.md).
+Read more [here](../../src/visualisation/README.md).
 
 ~~~
 python3 src/visualization/app_analysis.py

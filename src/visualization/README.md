@@ -20,13 +20,13 @@ http://127.0.0.1:8052/
 The first part shows all the tests currently running.
 
 <p align="center">
-<img src="../../reports/figures/README/Doggo - Currently Running - Part 1.png" width="500">
+<img src="../../reports/figures/README/Doggo - Currently Running - Part 1.png">
 </p>
 
 In the second part, by selecting a test, different evolutions of parameters are displayed.
 
 <p align="center">
-<img src="../../reports/figures/README/Doggo - Currently Running - Part 2.png" width="500">
+<img src="../../reports/figures/README/Doggo - Currently Running - Part 2.png">
 </p>
 
 
@@ -45,19 +45,19 @@ http://127.0.0.1:8051/
 The 1st part will compare the parameters of the tests, as well as the evolution of rewards and steps for full-exploitation episodes along the training.
 
 <p align="center">
-<img src="../../reports/figures/README/Doggo - Analysis - Part 1.png" width="500">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 1.png">
 </p>
 
 The 2nd part will compare the evolution of reward, number of steps, epsilon and alpha for episodes used during the training.
 
 <p align="center">
-<img src="../../reports/figures/README/Doggo - Analysis - Part 2.png" width="500">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 2.png">
 </p>
 
 The rest will be specific to the Doggo project. First, it compares happiness and number of actions taken.
 
 <p align="center">
-<img src="../../reports/figures/README/Doggo - Analysis - Part 3.png" width="500">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 3.png">
 </p>
 
 Then, a test in particular has to be selected to display more information, like the evolution of the characteristics of the Doggo along the training, the cause of deaths or the last full-exploitation episode.

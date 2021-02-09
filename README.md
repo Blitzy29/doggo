@@ -34,7 +34,7 @@ Once the happiness reaches 0, the Doggo dies.
 
 Food and affection will diminish in time. In my test, it decreases by a value of 0.01 every minute (or step). Fat doesn't change with time. In order to let the doggo live, actions can be taken to improve food and affection, or reduce fat.: feeding, playing or walking
 
-The idea and creation of the Doggo digital pet is a [project]() by [Romaric Thiam](https://github.com/RTH00).
+The idea and creation of the Doggo digital pet is a [project](https://github.com/RTH00/doggo) by [Romaric Thiam](https://github.com/RTH00).
 
 
 ## [Reinforcement Learning](src/models/README.md)
