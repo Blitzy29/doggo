@@ -135,7 +135,7 @@ http://127.0.0.1:8052/
 ~~~
 
 <p align="center">
-<img src="reports/figures/README/Doggo - Currently Running - Part 1.png" width="500">
+<img src="reports/figures/README/Doggo - Currently Running - Part 1.png">
 </p>
 
 
@@ -149,7 +149,7 @@ http://127.0.0.1:8051/
 ~~~
 
 <p align="center">
-<img src="reports/figures/README/Doggo - Analysis - Part 1.png" width="500">
+<img src="reports/figures/README/Doggo - Analysis - Part 1.png">
 </p>
 
 
