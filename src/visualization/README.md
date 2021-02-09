@@ -19,11 +19,15 @@ http://127.0.0.1:8052/
 
 The first part shows all the tests currently running.
 
-![Doggo - Currently Running - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Currently%20Running%20-%20Part%201.png)
+<p align="center">
+<img src="../../reports/figures/README/Doggo - Currently Running - Part 1.png" width="500">
+</p>
 
 In the second part, by selecting a test, different evolutions of parameters are displayed.
 
-![Doggo - Currently Running - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Currently%20Running%20-%20Part%202.png)
+<p align="center">
+<img src="../../reports/figures/README/Doggo - Currently Running - Part 2.png" width="500">
+</p>
 
 
 ## Analysis
@@ -38,22 +42,29 @@ python3 src/visualization/app_analysis.py
 http://127.0.0.1:8051/
 ~~~
 
-The 1st part will compare the parameters of the tests, as well as the evolution of rewad and steps for full-exploitation episodes along the training.
+The 1st part will compare the parameters of the tests, as well as the evolution of rewards and steps for full-exploitation episodes along the training.
 
-![Doggo - Analysis - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%201.png)
+<p align="center">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 1.png" width="500">
+</p>
 
 The 2nd part will compare the evolution of reward, number of steps, epsilon and alpha for episodes used during the training.
 
-![Doggo - Analysis - Part 2](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%202.png)
+<p align="center">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 2.png" width="500">
+</p>
 
 The rest will be specific to the Doggo project. First, it compares happiness and number of actions taken.
 
-![Doggo - Analysis - Part 3](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%203.png)
+<p align="center">
+<img src="../../reports/figures/README/Doggo - Analysis - Part 3.png" width="500">
+</p>
 
 Then, a test in particular has to be selected to display more information, like the evolution of the characteristics of the Doggo along the training, the cause of deaths or the last full-exploitation episode.
 
 Example 1                  |  Example 2                |  Example 3
 :-------------------------:|:-------------------------:|:-------------------------:
-![Doggo - Analysis - Part 4 (1)](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%204%20(1).png)   |  ![Doggo - Analysis - Part 4 (2)](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%204%20(2).png)|  ![Doggo - Analysis - Part 4 (3)](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%204%20(3).png)
+<img src="../../reports/figures/README/Doggo - Analysis - Part 4 (1).png">|<img src="../../reports/figures/README/Doggo - Analysis - Part 4 (2).png">|<img src="../../reports/figures/README/Doggo - Analysis - Part 4 (3).png">
+
 
 --------

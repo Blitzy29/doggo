@@ -21,13 +21,13 @@ A Doggo is represented by 3 characteristics:
 
 All of these charactesristics are between 0 and 1 and help to determine the happiness of the Doggo:
 
-$$happiness = min(food, 1-fat, affection)$$
+<p align="center">
+<img src="../../reports/figures/README/doggo_happiness.png" width="350">
+</p>
 
 Once the happiness reaches 0, the Doggo dies.
 
 Food and affection will diminish in time. In my test, it decreases by a value of 0.01 every minute. Fat doesn't change with time. However, action can be taken to improve the levels of food and affection, or reduce fat.
-
-Read more [here](src/data/README.md).
 
 
 ## Reinforcement Learning
@@ -56,7 +56,7 @@ A state is define as the combination of:
 | **Action** | Food  | Fat       | Affection |                        | 
 | feed       | +25   | +25       | 0         | 1                      | 
 | play       | 0     | -12       | +5        | 4                      | 
-| feed       | 0     | -20       | +40       | 15                     | 
+| walk       | 0     | -20       | +40       | 15                     | 
 
 </center>
 

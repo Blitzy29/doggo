@@ -26,7 +26,9 @@ A Doggo is represented by 3 characteristics:
 
 All of these characteristics are between 0 and 1 and help to determine the happiness of the Doggo:
 
-$$happiness = min(food, 1-fat, affection)$$
+<p align="center">
+<img src="reports/figures/README/doggo_happiness.png" width="350">
+</p>
 
 Once the happiness reaches 0, the Doggo dies.
 
@@ -132,7 +134,9 @@ python3 src/visualization/app_currently_running.py
 http://127.0.0.1:8052/
 ~~~
 
-![Doggo - Currently Running - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%201.png)
+<p align="center">
+<img src="reports/figures/README/Doggo - Currently Running - Part 1.png" width="500">
+</p>
 
 
 ### [Analysis](src/visualization/README.md)
@@ -144,7 +148,9 @@ python3 src/visualization/app_analysis.py
 http://127.0.0.1:8051/
 ~~~
 
-![Doggo - Analysis - Part 1](https://github.com/Blitzy29/doggo/blob/master/reports/figures/README/Doggo%20-%20Analysis%20-%20Part%201.png)
+<p align="center">
+<img src="reports/figures/README/Doggo - Analysis - Part 1.png" width="500">
+</p>
 
 
 ## Project Organization
